@@ -1,0 +1,26 @@
+{
+  "name": "node-js-playlist",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-bridges/node-js-playlist.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-bridges/node-js-playlist/issues"
+  },
+  "homepage": "https://github.com/kevin-bridges/node-js-playlist#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1",
+    "node-auth": "0.0.1"
+  }
+}
